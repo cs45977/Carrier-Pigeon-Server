@@ -1,0 +1,15 @@
+***** DEVELOPMENT NOTES ****
+
+
+
+
+/****** SQL Changes *****/
+
+Initial install of module 
+08/10/2011 - Christian Serna
+
+
+
+
+
+
